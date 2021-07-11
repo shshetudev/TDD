@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.shshetudev.unittest.Overview.VerifyInteractionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-10T16:30:05" hostname="shetu-H110M-DS2" time="33.897">
-  <properties/>
-  <testcase name="testMethod()" classname="com.shshetudev.unittest.Overview.VerifyInteractionTest" time="33.897"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

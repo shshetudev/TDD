@@ -16,4 +16,11 @@ The Mockito framework allows us to create mock object using either `@Mock` annot
 * We can use `VerificationModeFactory` for number of invocation times logic.
 * __Mockito `verify()` method checks that a method is called with the right parameters.__
 * __It does not check the result of a method call like `assert()` method__
-    
+
+### Mockito Stub Concrete Class
+* Using when() - thenReturn() function, we can stub a concrete/implementation class and also a single element of a collection.
+* The non-stubbed elements will contain null in them.
+
+### Mockito Spy
+* When we call the method of a spied object, the real method will be called, unless a predefined behavior was defined.
+* Using spy we can define behavior by using `when()-thenReturn()` functions or can invoke real implementation.
