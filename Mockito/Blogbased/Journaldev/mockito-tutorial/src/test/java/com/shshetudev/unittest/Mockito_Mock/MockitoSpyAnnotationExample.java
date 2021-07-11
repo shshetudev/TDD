@@ -1,6 +1,5 @@
 package com.shshetudev.unittest.Mockito_Mock;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
@@ -10,7 +9,6 @@ import org.mockito.Spy;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MockitoSpyAnnotationExample {
-
    @Spy
   Utils mockUtils;
 
