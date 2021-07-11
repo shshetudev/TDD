@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.shshetudev.unittest.Mockito_Mock.MockitoSpyAnnotationExample" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-11T10:13:43" hostname="shetu-ThinkPad-T460" time="0.453">
+  <properties/>
+  <testcase name="test()" classname="com.shshetudev.unittest.Mockito_Mock.MockitoSpyAnnotationExample" time="0.453"/>
+  <system-out><![CDATA[Input Params = 1, 1
+Input Params = 19, 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
