@@ -36,3 +36,7 @@ com/shshetudev/unittest/Mockito_Mock/MockitoInjectMockAnnotationExample.java
  com.shshetudev.unittest.Mockito_Mock.MockitoInjectMockAnnotationExample
 com/shshetudev/unittest/Mockito_Verify/MockitoVerifyOrderOfInvocation.java
  com.shshetudev.unittest.Mockito_Verify.MockitoVerifyOrderOfInvocation
+com/shshetudev/unittest/Mockito_mock_final_class_and_methods/MockingFinalClassTest.java
+ com.shshetudev.unittest.Mockito_mock_final_class_and_methods.MockingFinalClassTest
+com/shshetudev/unittest/Mockito_mock_final_class_and_methods/MockingFinalMethod.java
+ com.shshetudev.unittest.Mockito_mock_final_class_and_methods.MockingFinalMethod

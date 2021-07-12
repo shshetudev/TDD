@@ -14,3 +14,7 @@ com/shshetudev/unittest/Mockito_Mock_Static_Method/Utils.java
  com.shshetudev.unittest.Mockito_Mock_Static_Method.Utils
 com/shshetudev/unittest/Mockito_Inliner/FooWithStatics.java
  com.shshetudev.unittest.Mockito_Inliner.FooWithStatics
+com/shshetudev/unittest/Mockito_mock_final_class_and_methods/FinalList.java
+ com.shshetudev.unittest.Mockito_mock_final_class_and_methods.FinalList
+com/shshetudev/unittest/Mockito_mock_final_class_and_methods/MyList.java
+ com.shshetudev.unittest.Mockito_mock_final_class_and_methods.MyList
